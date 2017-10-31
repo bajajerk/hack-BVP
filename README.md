@@ -1,7 +1,8 @@
 # hack-BVP
 
 Android app-https://github.com/addiegupta/hack-bvp-android
-
+Raspi program - 
+https://github.com/abhi2898/RaspberryPi/blob/master/Habitat's%20Pi.p
 The repository contains of a project for Hack@BVP. In this project the aim is to create a smart habitat to add to the comfort as well as the day to day needs of the people. The projects majorly focuses on four topics i.e. Automated advanced security system, mood control lighting system, efficient cooling of air conditioners and Machine learning based air purity checking system. The aims in this project will not only save people from day to day hectic issues but will also provide comfort at their finger tips. 
 The Automated Advanced Security System
 Nowadays, almost every budget smartphone has a fingerprint reader, taking the benefit from this fact, we integrated the mobile’s fingerprint sensor with a dedicated web server, as the user reaches within a certain radius of their home, a notification appears asking to unlock the home. If positive signal is received along with the user authentication, the server will redirect a command to the Raspberry pi and the doors will be unlocked using the servo motors.
